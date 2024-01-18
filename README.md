@@ -83,11 +83,13 @@ How do you know what value to use?
 
 ### Common Error Codes
 
-#### Error Code: 2
-Error code 2 usually signifies "ERROR_FILE_NOT_FOUND". Pressing "Set Default" under the *Savitarax Fix* tab deletes the registry values associated with the tweak. If you press it more then once, it is trying to delete a file which doesn't exist.
+****Error Code: 2**
 
-#### Error Code: 5
-Error code 5 typically signifies "ERROR_ACCESS_DENIED". This means the program does not have sufficient permissions to edit the registry. Please ensure that you run the program as an administrator or check if an antivirus is blocking it.
+Error code 2 usually signifies ``ERROR_FILE_NOT_FOUND``. Pressing "Set Default" under the *Savitarax Fix* tab deletes the registry values associated with the tweak. If you press it more then once, it is trying to delete a file which doesn't exist.
+
+**Error Code: 5**
+
+Error code 5 typically signifies ``ERROR_ACCESS_DENIED``. This means the program does not have sufficient permissions to edit the registry. Please ensure that you run the program as an administrator or check if an antivirus is blocking it.
 
 > [!WARNING]\
 > These tweaks modify registry values. I ensured the implementation is safe, but if you modify the code, make sure you know what you're doing.

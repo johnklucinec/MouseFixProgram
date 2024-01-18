@@ -2,9 +2,6 @@
 
 ![Screenshot 2024-01-17 182245](https://github.com/johnklucinec/MouseFixProgram/assets/72411904/095d464e-2410-4379-bf49-fe321193f224)
 
-A multi-use discord bot made for the Finalmouse discord server.
-
-I made this bot to help me learn Rust. I was not contracted to do this, I did this in my own free time. 
 
 ## Features
   * Matching Message Boxes
@@ -23,7 +20,10 @@ I made this bot to help me learn Rust. I was not contracted to do this, I did th
 
 ![reactive](https://github.com/johnklucinec/MouseFixProgram/assets/72411904/3982aac3-85b6-447f-878a-23736480a5ef)
 
-![moving_widget](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw4ZnJnNHBjaTVqdWp3M3lwbGthaXcxZnA1c202OGlteHRxcTBvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTclVwS98qgdqN3fjF/giphy.gif)
+![moving_widget](https://github.com/johnklucinec/MouseFixProgram/assets/72411904/241169dc-25d8-4b64-9b36-7b0609115452)
+
+![move_message](https://github.com/johnklucinec/MouseFixProgram/assets/72411904/30ff8ab1-8376-4814-83a2-d92ffeacd67f)
+
 
 ## Setup
 Coming Soon

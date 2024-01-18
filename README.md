@@ -83,7 +83,7 @@ How do you know what value to use?
 
 ### Common Error Codes
 
-****Error Code: 2**
+**Error Code: 2**
 
 Error code 2 usually signifies ``ERROR_FILE_NOT_FOUND``. Pressing "Set Default" under the *Savitarax Fix* tab deletes the registry values associated with the tweak. If you press it more then once, it is trying to delete a file which doesn't exist.
 

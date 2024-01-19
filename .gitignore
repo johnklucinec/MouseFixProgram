@@ -57,3 +57,5 @@ out/build/MouseFixProgram_autogen/EWIEGA46WW/qrc_resource.cpp
 out/build/MouseFixProgram_autogen/include/ui_custommessagebox.h
 out/build/MouseFixProgram_autogen/include/ui_widget.h
 out/build/Testing/Temporary/LastTest.log
+CMakeLists.txt.user
+out/

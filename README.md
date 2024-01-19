@@ -10,7 +10,7 @@
 
 ### Intro
 
-When I first began to learn coding, I was not particularly fond of command-line programs. Although they can be useful tools for various applications, having a good Graphical User Interface (GUI) is always a plus. I personally love the Widow's Acrylic look, and I was a bit frustrated to learn that Qt does not support this theme. Well, I had to work with what I had, and I made my own theme instead. 
+When I first began to learn coding, I was not particularly fond of command-line programs. Although they can be useful tools for various applications, having a good GUI is always a plus. I personally love the Window's Acrylic look, and I was a bit frustrated to learn that Qt does not support this theme. Well, I had to work with what I had, and I made my own theme instead. 
 
 What is the point of this program? 
 
